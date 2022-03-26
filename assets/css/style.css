@@ -434,6 +434,8 @@ img {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  margin-top: -100px;
+
 }
 .hero-img {
   display: flex;
@@ -511,9 +513,7 @@ img {
 .hero-logo {
   max-height: 100px;
 }
-.hero-boxlo {
-  margin-top: -70px;
-}
+
 .hero-box h2 {
   color: rgb(0, 0, 0);
   margin-bottom: 50px;
@@ -522,7 +522,7 @@ img {
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-.hero-box span {
+.hero-box span{
   color: #ff651c;
 }
 .hero-box .btn-scroll {
