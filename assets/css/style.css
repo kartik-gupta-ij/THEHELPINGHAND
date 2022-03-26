@@ -240,7 +240,7 @@ img {
   color: #ff651c;
   text-decoration: none;
 }
-#header .profile img {
+#header .profile video {
   margin: 20px auto 20px auto;
   display: block;
   max-width: 190px;
@@ -691,13 +691,33 @@ section {
   transform: scale(1);
   transition: ease-in-out 0.3s;
 }
-.about .image {
+/* .about .image {
   background: url("../img/me-2.gif") center center no-repeat;
   background-size: cover;
   height: 100%;
-  transform: scale(1.1);
   border-radius: 20px;
   transition: ease-in-out 0.3s;
+} */
+
+.about .image video {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+
+}
+.about .image {
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: ease-in-out 0.3s;
+  transform: scale(1.1);
 }
 .about .skills-content {
   margin-top: 30px;
