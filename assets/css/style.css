@@ -21,6 +21,9 @@ h6 {
   font-family: Lato, sans-serif;
   color: #fff;
 }
+img {
+  aspect-ratio: attr(width) / attr(height);
+}
 .container {
   background-color: #212121;
   padding: 30px;
