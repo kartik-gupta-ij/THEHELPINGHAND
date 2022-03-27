@@ -69,8 +69,8 @@
  .fa-phone-alt:before {
      content: "\f879"
  }
- 
-
+ .fa-times:before{content:"\f00d"}
+ .fa-bars:before{content:"\f0c9"}
  .fa-plus:before {
      content: "\f067"
  }
