@@ -63,7 +63,7 @@
  .fa-paperclip:before {
      content: "\f0c6"
  }
- 
+ .fa-envelope:before{content:"\f0e0"}
  
  
  .fa-phone-alt:before {
