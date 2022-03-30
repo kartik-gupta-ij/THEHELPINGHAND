@@ -1,0 +1,69 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 31/08/2016 15:59
+  	*/
+
+@font-face {
+  font-family: "Flaticon-gym";
+  src: url("../fonts/flaticon-set-gym/flaticon-set-gym.eot");
+  src: url("../fonts/flaticon-set-gym/flaticon-set-gymd41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon-set-gym/flaticon-set-gym.woff") format("woff"),
+       url("../fonts/flaticon-set-gym/flaticon-set-gym.ttf") format("truetype"),
+       url("../fonts/flaticon-set-gym/flaticon-set-gym.svg#Flaticon-gym") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon-gym";
+    src: url("../fonts/flaticon-set-gym/flaticon-set-gym.svg#Flaticon-gym") format("svg");
+  }
+}
+
+[class^="flaticon-gym-"]:before, [class*=" flaticon-gym-"]:before,
+[class^="flaticon-gym-"]:after, [class*=" flaticon-gym-"]:after {   
+  font-family: Flaticon-gym;
+  font-style: normal;
+}
+
+.flaticon-gym-balance:before { content: "\f100"; }
+.flaticon-gym-buck:before { content: "\f101"; }
+.flaticon-gym-cardio:before { content: "\f102"; }
+.flaticon-gym-cardio-1:before { content: "\f103"; }
+.flaticon-gym-centimeter:before { content: "\f104"; }
+.flaticon-gym-chest:before { content: "\f105"; }
+.flaticon-gym-chest-1:before { content: "\f106"; }
+.flaticon-gym-chest-2:before { content: "\f107"; }
+.flaticon-gym-clothes:before { content: "\f108"; }
+.flaticon-gym-clothes-1:before { content: "\f109"; }
+.flaticon-gym-dumbbell:before { content: "\f10a"; }
+.flaticon-gym-dumbbell-1:before { content: "\f10b"; }
+.flaticon-gym-exercise-bands:before { content: "\f10c"; }
+.flaticon-gym-fitness:before { content: "\f10d"; }
+.flaticon-gym-gloves:before { content: "\f10e"; }
+.flaticon-gym-hand-grip:before { content: "\f10f"; }
+.flaticon-gym-headgear:before { content: "\f110"; }
+.flaticon-gym-jump-rope:before { content: "\f111"; }
+.flaticon-gym-kettlebells:before { content: "\f112"; }
+.flaticon-gym-leg:before { content: "\f113"; }
+.flaticon-gym-medicine-ball:before { content: "\f114"; }
+.flaticon-gym-pills:before { content: "\f115"; }
+.flaticon-gym-pills-1:before { content: "\f116"; }
+.flaticon-gym-punching-bag:before { content: "\f117"; }
+.flaticon-gym-punching-ball:before { content: "\f118"; }
+.flaticon-gym-rings:before { content: "\f119"; }
+.flaticon-gym-scale:before { content: "\f11a"; }
+.flaticon-gym-step:before { content: "\f11b"; }
+.flaticon-gym-stopwatch:before { content: "\f11c"; }
+.flaticon-gym-supplies:before { content: "\f11d"; }
+.flaticon-gym-trellis:before { content: "\f11e"; }
+.flaticon-gym-watch:before { content: "\f11f"; }
+.flaticon-gym-water-bottle:before { content: "\f120"; }
+.flaticon-gym-weight:before { content: "\f121"; }
+.flaticon-gym-weight-1:before { content: "\f122"; }
+.flaticon-gym-weights:before { content: "\f123"; }
+.flaticon-gym-weights-1:before { content: "\f124"; }
+.flaticon-gym-wheel:before { content: "\f125"; }
+.flaticon-gym-wheight-bar:before { content: "\f126"; }
+.flaticon-gym-whistle:before { content: "\f127"; }

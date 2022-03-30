@@ -1,0 +1,44 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:32
+  	*/
+
+@font-face {
+  font-family: "Flaticon-yoga-symbol";
+  src: url("../fonts/flaticon-set-yoga-symbol/flaticon-set-yoga-symbol.eot");
+  src: url("../fonts/flaticon-set-yoga-symbol/flaticon-set-yoga-symbold41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon-set-yoga-symbol/flaticon-set-yoga-symbol.woff") format("woff"),
+       url("../fonts/flaticon-set-yoga-symbol/flaticon-set-yoga-symbol.ttf") format("truetype"),
+       url("../fonts/flaticon-set-yoga-symbol/flaticon-set-yoga-symbol.svg#flaticon-set-yoga-symbol") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon-yoga-symbol";
+    src: url("../fonts/flaticon-set-yoga-symbol/flaticon-set-yoga-symbol.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-yoga-symbol-"]:before, [class*=" flaticon-yoga-symbol-"]:before,
+[class^="flaticon-yoga-symbol-"]:after, [class*=" flaticon-yoga-symbol-"]:after {   
+  font-family: Flaticon-yoga-symbol;
+  font-style: normal;
+}
+
+.flaticon-yoga-symbol-burner:before { content: "\f100"; }
+.flaticon-yoga-symbol-chakra:before { content: "\f101"; }
+.flaticon-yoga-symbol-chakra-1:before { content: "\f102"; }
+.flaticon-yoga-symbol-chakra-2:before { content: "\f103"; }
+.flaticon-yoga-symbol-chakra-3:before { content: "\f104"; }
+.flaticon-yoga-symbol-flower:before { content: "\f105"; }
+.flaticon-yoga-symbol-incense:before { content: "\f106"; }
+.flaticon-yoga-symbol-lotus:before { content: "\f107"; }
+.flaticon-yoga-symbol-lotus-1:before { content: "\f108"; }
+.flaticon-yoga-symbol-om:before { content: "\f109"; }
+.flaticon-yoga-symbol-om-1:before { content: "\f10a"; }
+.flaticon-yoga-symbol-stones:before { content: "\f10b"; }
+.flaticon-yoga-symbol-teapot:before { content: "\f10c"; }
+.flaticon-yoga-symbol-yoga:before { content: "\f10d"; }
+.flaticon-yoga-symbol-yoga-1:before { content: "\f10e"; }
