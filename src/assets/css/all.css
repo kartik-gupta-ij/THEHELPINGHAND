@@ -1,3 +1,16 @@
+/* @import url("animate.min.css"); */
+@import url("bootstrap.min.css");
+@import url("colors.css");
+@import url("fonts.css");
+@import url("glightbox.min.css");
+@import url("orange.css");
+@import url("responsive.css");
+@import url("style.css");
+@import url("swiper-bundle.min.css");
+
+
+
+
 
  .fa,
  .fab,
@@ -10,7 +23,7 @@
      text-rendering: auto;
      line-height: 1
  }
- 
+
  .fa-arrow-right:before {
     content: "\f061"
 }
@@ -32,9 +45,9 @@
  .fa-angle-down:before {
      content: "\f107"
  }
- 
 
- 
+
+
  .fa-globe:before {
     content: "\f0ac"
 }
@@ -53,19 +66,19 @@
  .fa-facebook:before {
      content: "\f09a"
  }
- 
+
  .fa-facebook-f:before {
      content: "\f39e"
  }
- 
 
- 
+
+
  .fa-paperclip:before {
      content: "\f0c6"
  }
  .fa-envelope:before{content:"\f0e0"}
- 
- 
+
+
  .fa-phone-alt:before {
      content: "\f879"
  }
@@ -74,52 +87,52 @@
  .fa-plus:before {
      content: "\f067"
  }
- 
+
  .fa-poll:before {
      content: "\f681"
  }
- 
+
 
  .fa-quote-left:before {
      content: "\f10d"
  }
- 
+
  .fa-quote-right:before {
      content: "\f10e"
  }
- 
 
- 
+
+
  .fa-share-alt:before {
      content: "\f1e0"
  }
- 
 
- 
+
+
  .fa-smile:before {
      content: "\f118"
  }
- 
+
 
  .fa-user-alt:before {
      content: "\f406"
  }
- 
 
- 
+
+
  .fa-users:before {
      content: "\f0c0"
  }
  .fa-whatsapp:before {
      content: "\f232"
  }
- 
+
  .fa-window-restore:before {
      content: "\f2d2"
  }
- 
 
- 
+
+
 
 .sr-only {
 	border: 0;

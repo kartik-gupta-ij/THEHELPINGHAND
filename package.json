@@ -1,0 +1,29 @@
+{
+  "name": "my-static-boilerplate",
+  "description": "A simple boilerplate using Vite and TailwindCSS for static projects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jaime J. Aleman",
+    "email": "jjaimealeman@gmail.com",
+    "url": "https://jjaimealeman.com/"
+  },
+  "license": "WTFPL",
+  "browserslist": [
+    "> 5%",
+    "last 2 years",
+    "not dead"
+  ],
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
